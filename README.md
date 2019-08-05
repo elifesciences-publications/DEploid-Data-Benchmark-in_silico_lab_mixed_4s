@@ -1,5 +1,8 @@
 # DEploid-Data-Benchmark-in_silico_lab_mixed_4s
 
+
+Refers to the following publication: Zhu, J. S., J. A. Hendry, J. Almagro-Garcia, R. D. Pearson, R. Amato, A. Miles, D. J. Weiss, T. C. D. Lucas, M. Nguyen, P. W. Gething, D. Kwiatkowski, G. McVean, and for the Pf3k Project. (2018) The origins and relatedness structure of mixed infections vary with local prevalence of *P. falciparum* malaria. *eLife*, doi: http://doi.org/10.7554/eLife.40845.
+
 This repository contains *in silico* mixture of 3D7, DD2, HB3 and 7G8, with
 different mixing proportions.
 
